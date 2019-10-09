@@ -29,3 +29,7 @@ nav ul {
 .dfn  {
   color: #fff;
 }
+
+.wrapper > .dfn {
+  background-color: #b58900;
+}
