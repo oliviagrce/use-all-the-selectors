@@ -34,3 +34,11 @@ nav > ul {
 a:not(.no-highlight){
   background-color: #719e07;
 }
+
+link: rel="external" {
+  background-color: #2694d8;
+}
+
+ol > li {
+  color: #719e47;
+}
