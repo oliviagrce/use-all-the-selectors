@@ -7,7 +7,7 @@ header, footer {
   font-size: 1.5rem
 }
 
-nav ul {
+nav > ul {
   font-family: sans-serif;
 }
 
@@ -19,17 +19,6 @@ nav ul {
   background-color: #eee8d5;
 }
 
-.dfn:first-of-type {
-  background-color: #b58900;
-
 #contents, #favs, #facts, #types {
   color: #93a1a1;
-}
-
-.dfn  {
-  color: #fff;
-}
-
-.wrapper > .dfn {
-  background-color: #b58900;
 }
