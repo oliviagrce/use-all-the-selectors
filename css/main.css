@@ -1,6 +1,5 @@
 body {
   background-color: #fdf6e3;
-  font-size: 1.5rem;
 }
 
 header, footer {
@@ -37,6 +36,10 @@ a:not(.no-highlight){
 
 link: rel="external" {
   background-color: #2694d8;
+}
+
+ol li:first-child {
+  color: #719e47;
 }
 
 ol li:last-child {
